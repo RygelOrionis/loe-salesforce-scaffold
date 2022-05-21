@@ -5,6 +5,8 @@
         },
         {
             "npm": "lightning-base-components"
-        }
+        },
+        { "npm": "lwc-recipes-oss-ui-components" },
+        { "npm": "@salesforce-ux/design-system" }
     ]
 }
